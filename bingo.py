@@ -1,7 +1,7 @@
 #===================================================================================================
 # By: Jacob Rust
 # Date: 1/17/2022
-#This is a program written for Bingobeater.com to beat their numerical boards
+#This is a program written for Bingobaker.com to beat their numerical boards
 #===================================================================================================
 #IMPORTS
 from selenium import webdriver
