@@ -1,0 +1,13 @@
+https://bingobaker.com/#2d87bd2c93b9e047
+=====
+/html/body/div[2]/svg/g[1]/g/text/tspan[1]
+/html/body/div[2]/svg/g[1]/g/text/tspan[2]
+=====
+/html/body/div[2]/svg/g[2]/g/text/tspan
+=====
+/html/body/div[2]/svg/g[3]/g/text/tspan[1]
+/html/body/div[2]/svg/g[3]/g/text/tspan[2]
+=====
+/html/body/div[2]/svg/g[4]/g/text/tspan[1]
+/html/body/div[2]/svg/g[4]/g/text/tspan[2]
+/html/body/div[2]/svg/g[4]/g/text/tspan[3]
